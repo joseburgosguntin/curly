@@ -1,6 +1,7 @@
 name = "curly"
 version = "1.0.0"
 description = "➰ Simple {} string formating"
+licences = ["GPL-3.0-only"]
 
 repository = { type = "github", user = "joseburgosguntin", repo = "format" }
 
